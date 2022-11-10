@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps {com.cicadabank/bips {:mvn/version "0.0.3"}}}
